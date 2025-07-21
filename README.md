@@ -9,16 +9,14 @@ Exploro a área innovative business desde 2019, tendo me envolvido ​em iniciat
 <p align="left">
     <a href="https://www.youtube.com/@rafaela_uto">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="YouTube" 
+            src="[https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F22721714-youtube-logo-for-popular-online-media-content-creation-website-and-application&psig=AOvVaw2gbdQn-uWO_yruqmRCqJlv&ust=1753204244921000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDowPO4zo4DFQAAAAAdAAAAABAX)"
         />
     </a>
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/rafauto">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
