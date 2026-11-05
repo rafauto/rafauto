@@ -23,6 +23,16 @@ An AI agent for Product Owners: it turns interview transcripts and user feedback
 
 <img src="https://raw.githubusercontent.com/rafauto/discovery-agent/main/docs/demo.gif" alt="Discovery Agent demo" width="720">
 
+### 🧮 [E-commerce Unit Economics Calculator](https://github.com/rafauto/ecommerce-unit-economics)
+
+A calculator that turns an online store's orders and product catalog into the numbers behind pricing, shipping and marketing decisions: average order value, margin per product, CAC by channel, LTV/CAC and break-even, with what-if scenarios and a ranking of the levers that move the result most.
+
+`Python` · `pandas` · `Streamlit` · `pytest` · `Ruff` · `GitHub Actions`
+
+👉 **[Try the live demo](https://ecommerce-unit-economics.streamlit.app/)** (fictional sample store, no sign-up)
+
+<img src="https://raw.githubusercontent.com/rafauto/ecommerce-unit-economics/main/docs/screenshots/demo.gif" alt="E-commerce Unit Economics Calculator: KPIs, break-even chart and what-if scenarios" width="720">
+
 ### 🌤️ [Weather App](https://github.com/rafauto/Weather)
 
 A web app that shows the current weather and a 5-day forecast for any city, with a modular architecture, offline tests using recorded API responses, caching to respect the API quota, and CI.
