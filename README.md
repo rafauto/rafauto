@@ -23,6 +23,16 @@ An AI agent for Product Owners: it turns interview transcripts and user feedback
 
 <img src="https://raw.githubusercontent.com/rafauto/discovery-agent/main/docs/demo.gif" alt="Discovery Agent demo" width="720">
 
+### 🧭 [PO Skills Kit](https://github.com/rafauto/po-skills-kit)
+
+Claude skills and a small MCP server for Product Owners: write user stories with Given/When/Then criteria, refine a backlog, prioritize with RICE and draft release notes. The LLM writes; tested Python code checks and calculates, so scores and quality checks are reproducible.
+
+`Python` · `Claude skills` · `MCP` · `Streamlit` · `pytest` · `GitHub Actions`
+
+👉 **[Try the live demo](https://po-skills-kit.streamlit.app/)** (fictional data, no API key needed)
+
+<img src="https://raw.githubusercontent.com/rafauto/po-skills-kit/main/docs/screenshots/demo.gif" alt="PO Skills Kit demo: RICE ranking, user story check and release notes" width="720">
+
 ### 🧮 [E-commerce Unit Economics Calculator](https://github.com/rafauto/ecommerce-unit-economics)
 
 A calculator that turns an online store's orders and product catalog into the numbers behind pricing, shipping and marketing decisions: average order value, margin per product, CAC by channel, LTV/CAC and break-even, with what-if scenarios and a ranking of the levers that move the result most.
